@@ -1,4 +1,10 @@
-
+- 👋 Hi, I’m @Siddharth0-dev
+- 👀 I’m interested in data scince and AIML
+- 🌱 I’m currently learning ML&AI
+- 💞️ I’m looking to collaborate on (idk that)
+- 📫 How to reach me plz don't (jk)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: earth is round
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-vora-83b0152a7/) 
 
